@@ -1,0 +1,10 @@
+const char *	T_PV
+tibrv_status	T_IV
+tibrv_u16	T_IV
+tibrv_f64	T_NV
+tibrvMsg	T_IV
+tibrvTransport	T_IV
+tibrvQueue	T_IV
+tibrvEvent	T_IV
+tibrvDispatcher	T_IV
+tibrvDispatchable	T_IV
